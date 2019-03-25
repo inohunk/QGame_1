@@ -1,4 +1,6 @@
-﻿using System;
+// This class contains functions for read data from file 
+
+using System;
 using System.Collections.Generic;
 using System.IO;
 namespace Data
